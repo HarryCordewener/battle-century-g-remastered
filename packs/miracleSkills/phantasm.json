@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_phantasm",
+  "name": "Phantasm",
+  "description": "You possess the power to craft illusions and mirages that can be just as convincing as the real thing. You must concentrate and visualize what you want—or don’t want—others to perceive. Your illusions are no more or less than implanting sensory perception into the victim so thoroughly that the effects might as well be real.",
+  "possible_specializations": ["Offensive Tests", "Defensive Tests", "Self disguises/invisibility"],
+  "possible_advantages": ["Illusion is well suited to the environment", "Victim is in a suggestive state", "Gear and clothing to match your illusory disguise"],
+  "possible_disadvantages": ["Unbelievable conditions", "Victim suspects something is wrong", "User has difficulty concentrating"],
+  "sample_tests": ["Imitating another’s looks and voice", "Changing the writing on a letter (Both DN Defense)", "Creating an illusory copy of you to act as a decoy (Special, see above)"]
+}

@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_fortune",
+  "name": "Fortune",
+  "description": "Fortune is the ability to manipulate the threads of fate through good or ill luck. It is a subtle power, making the user seem to have an uncanny intuition for who to ask for assistance or where to look for a plot-critical item. The blessings of Fortune let you find exactly who or what you need at the perfect time.",
+  "possible_specializations": ["Equipment Tests", "Information gathering", "Hiring someone else’s services"],
+  "possible_advantages": ["As Resources Tests"],
+  "possible_disadvantages": ["As Resources Tests"],
+  "sample_tests": ["As Resources Tests"]
+}

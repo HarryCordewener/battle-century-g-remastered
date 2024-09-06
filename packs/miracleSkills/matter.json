@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_matter",
+  "name": "Matter",
+  "description": "Through this Miracle a character is able to manipulate solid objects with a touch. They can be anything from complex metallic alloys to a raw chunk of uranium. Doors can be reinforced, swords can be sharpened... And yet turning lead into gold remains impossible.",
+  "possible_specializations": ["Craftsmanship Tests", "Destroying objects", "Improving objects"],
+  "possible_advantages": ["Object to be transformed is similar in function and origin to the one you desire", "Object you are trying to break is very light, of simple structure, or has little mass"],
+  "possible_disadvantages": ["Transforming one object into another that shares little or nothing with it", "Trying to break an object that is heavy, of complex structure, or with a large mass"],
+  "sample_tests": ["Granting any one item an Advantage to all tests made with it for a Scene (DN 5)", "Breaking down reinforced steel (DN 15)", "Anything that you could use Craftsmanship for"]
+}

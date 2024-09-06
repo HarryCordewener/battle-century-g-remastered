@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_temperature",
+  "name": "Temperature",
+  "description": "This Miracle controls the unseen thermal forces around your person. You can make the environment and objects cooler or hotter, even using it to attack enemies, but it draws power from your emotions. It is easier to go cold if you are calm and to go hot if you are excited. You need to be within an environment with oxygen in order to use this power, and it will not work even in a partial vacuum. You may use Charm to influence your surroundings, generally no further than your current Zone. This Skill can burn or freeze others, but it will require the environment to provide a bonfire or windy frost to draw power from. Attempting an Offensive Test in an improper environment will be at a Disadvantage. You may create these conditions on your own, but you need to stop maintaining the effects to make your attack, effectively using them up.",
+  "possible_specializations": ["Offensive Tests", "Cold", "Heat"],
+  "possible_advantages": ["A suitable environment (a sub zero room or one on fire)", "Being in the proper emotional state (smooth or furious)", "Affecting materials that react easily to temperature (nitrogen or flammables) according to the desired effect"],
+  "possible_disadvantages": ["Improper environment", "Emotional state", "Materials for the effect you are trying to achieve"],
+  "sample_tests": ["Making people feel uncomfortably hot or cold to vacate an area (DN 10)", "Creating the conditions for an Offensive Temperature Test (DN 15)", "Creating a bridge of ice or melting a steel door (DN 15)"]
+}

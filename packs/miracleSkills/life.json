@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_life",
+  "name": "Life",
+  "description": "You feel the pulse of life around you as one more of your senses. You can expand this special sense over a wide area to feel the presences of specific kinds of animal life (humans, small mammals, reptiles, invertebrates) at a time. This will give you a number and the general location of each, but won’t let you identify them individually.",
+  "possible_specializations": ["Awareness Tests", "Medicine Tests", "A specific kind of animal life (such as humans, birds or fish)"],
+  "possible_advantages": ["Few targets of the chosen type in the searching area when looking for a singular specific subject", "Outdoors and in touch with nature", "You are trying to heal someone of the exact same blood type"],
+  "possible_disadvantages": ["Many targets of the chosen type in the searching area when searching for a specific subject", "Surrounded by machinery and electronics", "You are trying to heal someone of an incompatible blood type"],
+  "sample_tests": ["Detecting human presences in a 100 meter radius (DN 5)", "Detecting small mammals in a 1 kilometer radius (DN 10)", "As Healing Tests"]
+}

@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_portal",
+  "name": "Portal",
+  "description": "Your hands can rip open wormholes in spacetime, creating oval-shaped glowing “Windows” that lead to other places. You can step through these Windows to go to the other side, but both Windows must be set in advance at the specific locations.",
+  "possible_specializations": ["Setting Windows", "Pocket Dimensions", "Defensive Tests"],
+  "possible_advantages": ["Placing a Window in an area you know well and access frequently", "Hiding an object the size of your palm or smaller", "Defending against projectiles"],
+  "possible_disadvantages": ["Placing a Window in an area that is new to you or that you can’t access easily", "Hiding an object larger than yourself", "Defending against an explosion or some other kind of attack larger than your body"],
+  "sample_tests": ["Setting up a Window for one Scene, an Episode or a whole Episode Arc (DN 5, 10 or 15)", "Hiding up to 1, 5 or 10 objects or people in a Pocket Dimension (DN 5, 10 or 15)", "Defending yourself from enemy attacks (Special, see above)"]
+}

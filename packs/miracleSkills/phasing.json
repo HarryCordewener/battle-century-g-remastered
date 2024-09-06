@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_phasing",
+  "name": "Phasing",
+  "description": "You can turn yourself partially insubstantial to pass through solid objects like a ghost. This means you can walk through walls or let speeding cars go through you without harm. While in this state you can effectively make yourself nearly immune to anything that threatens you.",
+  "possible_specializations": ["Offensive Tests", "Defensive Tests", "Passing through inert objects"],
+  "possible_advantages": ["Substance is very small, very soft, or not a solid"],
+  "possible_disadvantages": ["Substance is very hard, a composite material, or moving at fast speeds"],
+  "sample_tests": ["Passing through a single solid wall (DN 5)", "Passing through a vast defensive perimeter (DN 15)", "Defending yourself from enemy attacks (Special, see above)"]
+}

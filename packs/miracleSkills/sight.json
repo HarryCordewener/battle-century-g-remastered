@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_sight",
+  "name": "Sight",
+  "description": "Your Extra Sensory Perception provides you with subtle clues about specific things and warns you of impending danger, but it does so in odd manners. Perhaps you feel a certain pressure from important people, or you can hear the ringing of a bell when something is threatening you.",
+  "possible_specializations": ["General Skill Tests", "Miracle Skill Tests", "Unskilled Awareness Tests"],
+  "possible_advantages": ["As Awareness Tests"],
+  "possible_disadvantages": ["As Awareness Tests"],
+  "sample_tests": ["As Awareness Tests"]
+}

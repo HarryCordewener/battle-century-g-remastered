@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_electricity",
+  "name": "Electricity",
+  "description": "The Electricity Miracle has both subtlety and raw power. It can recharge a cell phone and operate a computer with a thought, and of course it can zap baddies left and right. All these uses require the target to be within line of sight. Electricity uses Fitness to throw lightning bolts all over the place, and Intellect the rest of the time. It may also be used to enhance the Electronics Skill with a single Advantage.",
+  "possible_specializations": ["Offensive Tests", "Electronics Tests", "Charging devices or the atmosphere"],
+  "possible_advantages": ["You stand in the middle of a thunderstorm", "High-conductivity materials", "Anything that would make an Electronics Test easier"],
+  "possible_disadvantages": ["Target is surrounded with lightning rods", "Low-conductivity materials", "Anything that would make an Electronics Test harder"],
+  "sample_tests": ["Recharging a battery (DN 5)", "Shooting a lightning bolt from your fingertips at someone else (DN Defense)", "Charging the local atmosphere with a few hours of lightning (DN 15)"]
+}

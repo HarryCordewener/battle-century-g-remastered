@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_force",
+  "name": "Force",
+  "description": "Similar to the psychic power known as Telekinesis, the Force Miracle controls kinetic forces between objects, and essentially controls local gravity. Force may be used to call a weapon to your hand, pin someone against a wall, or even to temporarily fly. Force affects targets within your line of sight. All uses of Force revolve around Fitness to aim and manipulate all that kinetic energy properly as if it were an extension of your own body.",
+  "possible_specializations": ["Offensive Tests", "Manipulating inorganic matter", "Affecting living creatures"],
+  "possible_advantages": ["Local gravity is in your favor", "Subject is cooperative", "Object is very light or has little mass"],
+  "possible_disadvantages": ["Local gravity is pulling in opposite direction", "Trying to reflect bullets back to their source", "Object is heavy or has a large mass"],
+  "sample_tests": ["Gently moving an object or willing person your size in a single direction (DN 5)", "Flying freely at your normal speed (DN 10)", "Lifting someone off the ground and throwing them against the wall (DN Defense)"]
+}

@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_probing",
+  "name": "Probing",
+  "description": "The most basic use of this Miracle is reading the minds of people and communicating with them telepathically. But it can also manipulate others with the art of suggestion, playing the role of the whispering devil sitting on their shoulder.",
+  "possible_specializations": ["Telepathy", "Mind Reading", "Suggestion"],
+  "possible_advantages": ["Subject is unconscious", "Has good reason to do what you are suggesting or to think about what you want to ask them"],
+  "possible_disadvantages": ["Subject is very focused on the task at hand", "Decidedly against the suggestion", "Even of exploring a question"],
+  "sample_tests": ["Reading another’s mood", "Finding out what accomplishment another person is most proud of", "Giving a sleeping victim nightmares (All DN Contested Willpower)"]
+}

@@ -1,0 +1,9 @@
+{
+  "_id": "base_mskill_somatics",
+  "name": "Somatics",
+  "description": "Somatics strengthens your body with superhuman power for a few moments. With it you will punch holes into concrete, outrun vehicles, and shoot targets blind.",
+  "possible_specializations": ["Offensive Tests", "General Skill Tests", "Miracle Skill Tests"],
+  "possible_advantages": ["As Fitness Tests"],
+  "possible_disadvantages": ["As Fitness Tests"],
+  "sample_tests": ["As Fitness Tests"]
+}
