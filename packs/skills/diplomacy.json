@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_diplomacy",
+  "name": "Diplomacy",
+  "description": "Diplomacy expresses a sincere desire to win someone over. It can be used to calm down an angry person, change someone’s mind or seduce someone you fancy, but the interest in doing so must be genuine.",
+  "attributes": ["Charm", "Intellect", "Fitness"],
+  "specializations": ["Haggling", "Negotiating Peace Talks", "Philosophical Debates"],
+  "advantages": ["Target is greedy and easily bribed", "Target respects your good reputation", "Target fears your infamous reputation"],
+  "disadvantages": ["Trying to sweet talk multiple people at once", "Convincing someone who dislikes you", "You look like a deranged lunatic that hasn’t slept in days"],
+  "sample_tests": [
+    "Getting a few free drinks from someone you just met",
+    "Making an emotional appeal to the jury",
+    "Negotiating for a cease-fire (All DN Contested Willpower)"
+  ]
+}

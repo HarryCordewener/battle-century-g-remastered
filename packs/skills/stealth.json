@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_stealth",
+  "name": "Stealth",
+  "description": "The stealthy character excels both at not being seen and at hiding in plain sight. Stealth can be used to camouflage or hide yourself, but also to shadow someone while concealing your presence in a crowd.",
+  "attributes": ["Fitness"],
+  "specializations": ["Camouflage", "Crowds", "Shadowing", "Silent Movement", "Smuggling small objects"],
+  "advantages": ["Poor lighting", "Distracted target", "Soundless environment such as a vacuum"],
+  "disadvantages": ["Distinguishing clothes", "Noisy equipment such as body armor", "Paranoid target"],
+  "sample_tests": [
+    "Sneaking up on someone (DN Contested Awareness)",
+    "Concealing a gun (DN 5)",
+    "Concealing a gun from a check (DN Contested Awareness)"
+  ]
+}

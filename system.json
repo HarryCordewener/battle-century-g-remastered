@@ -14,86 +14,76 @@
     "discord": "Zykov"
   }],
   "esmodules": ["bcgr.mjs"],
-  "styles": ["styles/bcgr.css"],
+  "styles": ["bcgr.css"],
   "packs": [
     {
       "name": "skills",
       "label": "Skills",
-      "path": "packs/skills.db",
-      "entity": "Item",
-      "type": "Skill",
+      "path": "packs/skills",
+      "type": "Item",
       "description": "A collection of all skills available in the Battle Century G system."
     },
     {
       "name": "traits",
       "label": "Traits",
-      "path": "packs/traits.db",
-      "entity": "Item",
-      "type": "Trait",
+      "path": "packs/traits",
+      "type": "Item",
       "description": "A collection of character traits providing bonuses and special abilities."
     },
     {
       "name": "weapons",
       "label": "Weapons",
-      "path": "packs/weapons.db",
-      "entity": "Item",
-      "type": "Weapon",
+      "path": "packs/weapons",
+      "type": "Item",
       "description": "A collection of weapons for use in the Battle Century G system."
     },
     {
       "name": "armor",
       "label": "Armor",
-      "path": "packs/armor.db",
-      "entity": "Item",
-      "type": "Armor",
+      "path": "packs/armor",
+      "type": "Item",
       "description": "A collection of protective gear and armor items."
     },
     {
       "name": "equipment",
       "label": "Equipment",
-      "path": "packs/equipment.db",
-      "entity": "Item",
-      "type": "Equipment",
+      "path": "packs/equipment",
+      "type": "Item",
       "description": "A collection of general equipment and tools."
     },
     {
       "name": "miracleSkills",
       "label": "Miracle Skills",
-      "path": "packs/miracleSkills.db",
-      "entity": "Item",
-      "type": "Miracle Skill",
+      "path": "packs/miracleSkills",
+      "type": "Item",
       "description": "A collection of extraordinary abilities available to characters."
     },
     {
       "name": "genreThemes",
       "label": "Genre Themes",
-      "path": "packs/genreThemes.db",
-      "entity": "Item",
-      "type": "Genre Theme",
+      "path": "packs/genreThemes",
+      "type": "Item",
       "description": "A collection of thematic elements and powers."
     },
     {
       "name": "vehicles",
       "label": "Vehicles",
-      "path": "packs/vehicles.db",
-      "entity": "Item",
-      "type": "Vehicle",
+      "path": "packs/vehicles",
+      "type": "Item",
       "description": "A collection of vehicles that characters can operate."
     },
     {
       "name": "consumables",
       "label": "Consumables",
-      "path": "packs/consumables.db",
-      "entity": "Item",
-      "type": "Consumable",
+      "path": "packs/consumables",
+      "type": "Item",
       "description": "A collection of items with limited uses, such as potions or grenades."
     },
     {
       "name": "resources",
       "label": "Resources",
-      "path": "packs/resources.db",
-      "entity": "Item",
-      "type": "Resource",
+      "path": "packs/resources",
+      "type": "Item",
       "description": "A collection of resources that characters might need to manage."
     }
   ],
@@ -104,47 +94,47 @@
   }],
   "documentTypes": {
     "Actor": {
-      "character": { "htmlFields": ["background.biography"] },
-      "mecha": { "htmlFields": ["background.biography"] }
+      "Character": { "htmlFields": ["background.biography"] },
+      "Mecha": { "htmlFields": ["background.biography"] }
     },
     "Item": {
-      "weapon": {
+      "Weapon": {
         "label": "Weapon",
         "description": "Represents all types of weapons, both melee and ranged."
       },
-      "armor": {
+      "Armor": {
         "label": "Armor",
         "description": "Represents protective gear that characters can wear."
       },
-      "equipment": {
+      "Equipment": {
         "label": "Equipment",
         "description": "General items that characters can use, such as tools and gadgets."
       },
-      "skill": {
+      "Skill": {
         "label": "Skill",
         "description": "Represents character skills and their usage in gameplay."
       },
-      "trait": {
+      "Trait": {
         "label": "Trait",
         "description": "Represents character traits that provide bonuses or special abilities."
       },
-      "miracleSkill": {
+      "MiracleSkill": {
         "label": "Miracle Skill",
         "description": "Represents extraordinary abilities used under specific conditions."
       },
-      "genreTheme": {
+      "GenreTheme": {
         "label": "Genre Theme",
         "description": "Represents thematic elements providing unique abilities or bonuses."
       },
-      "vehicle": {
+      "Vehicle": {
         "label": "Vehicle",
         "description": "Represents vehicles that characters can operate."
       },
-      "consumable": {
+      "Consumable": {
         "label": "Consumable",
         "description": "Represents items with limited uses, such as potions or grenades."
       },
-      "resource": {
+      "Resource": {
         "label": "Resource",
         "description": "Represents resources characters might need to manage."
       }

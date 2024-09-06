@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_medicine",
+  "name": "Medicine",
+  "description": "The old and proud tradition of keeping other people alive and in good health. Medicine also comes with knowledge about the capabilities and limitations of the human body and mind.",
+  "attributes": ["Intellect"],
+  "specializations": ["Diagnostics", "Forensics", "Veterinary"],
+  "advantages": ["Helpful assistants", "Stable and cooperative patient", "Access to family medical histories"],
+  "disadvantages": ["Treating a patient who is in critical condition", "Uncooperative", "With multiple contradicting symptoms"],
+  "sample_tests": [
+    "Diagnosing a patient (DN 5)",
+    "First aid (DN 10)",
+    "Eye surgery (DN 15)"
+  ]
+}

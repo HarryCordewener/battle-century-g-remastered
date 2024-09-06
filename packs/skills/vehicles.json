@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_vehicles",
+  "name": "Vehicles",
+  "description": "This Skill is for operating all sorts of vehicles that aren’t giant robots. You sail, fly or drive as well as perform maintenance on your machines.",
+  "attributes": ["Fitness", "Intellect"],
+  "specializations": ["Helicopters", "Motorcycles", "Tanks"],
+  "advantages": ["A top of the line vehicle", "Luxury or otherwise high quality tools", "A vast stockpile of spare parts"],
+  "disadvantages": ["Driving through rocky terrain", "Toolbox is incomplete or tools are in poor condition", "The parts required for the fix are difficult to acquire"],
+  "sample_tests": [
+    "Navigating through a storm (DN 10)",
+    "Performing a high-speed chase (DN Contested Vehicles)",
+    "Repairing a damaged engine (DN 15)"
+  ]
+}

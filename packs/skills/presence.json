@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_presence",
+  "name": "Presence",
+  "description": "Sometimes you just want to get people’s attention, and Presence does exactly that. When you want to impress others with a performance of song, fast talk or an elaborate speech, you use Presence.",
+  "attributes": ["Charm", "Intellect", "Fitness"],
+  "specializations": ["Dance", "Speeches", "Technobabble"],
+  "advantages": ["You’ve rehearsed the act previously", "The public is drunk and in a good mood", "Your speech relates strongly to what the audience cares about"],
+  "disadvantages": ["Terrible ambience", "Poor quality microphones or other such equipment", "Hecklers"],
+  "sample_tests": [
+    "Telling a very good joke (DN 5)",
+    "Distracting others through fast talk (DN Contested Awareness)",
+    "An epic speech that will make people drop whatever they’re doing and follow you (DN 20)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_investigation",
+  "name": "Investigation",
+  "description": "The investigator gathers information and filters what is true or useful from that which is false or background noise. You may use Investigation to notice a secret passage in the creepy mansion, or to bar-hop and ask if people have seen a missing child.",
+  "attributes": ["Awareness"],
+  "specializations": ["Crime Scenes", "Interrogation", "Puzzles & Riddles"],
+  "advantages": ["Unrestricted access to crime scene", "The prisoner fears you", "A team to help you notice things or bounce ideas off of"],
+  "disadvantages": ["Subjects are unwilling to aid you", "Looking for impossibly small objects or clues", "Some of the evidence is planted"],
+  "sample_tests": [
+    "Fishing for information from your contacts (DN 5)",
+    "Following a paper trail (DN 10)",
+    "Getting information from a captive enemy (DN Contested Deception)"
+  ]
+}

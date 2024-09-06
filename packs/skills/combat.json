@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_combat",
+  "name": "Combat",
+  "description": "Combat represents brute strength, well-honed marksmanship, and knowledge of strategy and tactics. Two people engaged in a fisticuff will use Combat to determine the winner, but so will two generals trying to control their troops more effectively than the other.",
+  "attributes": ["Fitness", "Intellect"],
+  "specializations": ["Chess", "Swordsmanship", "Revolvers"],
+  "advantages": ["Stimulants", "Attacking from surprise", "Attacking from the high ground"],
+  "disadvantages": ["Taking on someone armed while unarmed", "Shooting targets that are behind cover", "Attacking from the low ground"],
+  "sample_tests": [
+    "Attacking another with a physical weapon (DN Defense)",
+    "Engaging another in a chess duel (DN Contested Combat)",
+    "Breaking down a creaking wooden door (DN 5)"
+  ]
+}

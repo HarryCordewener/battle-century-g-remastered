@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_survival",
+  "name": "Survival",
+  "description": "Survival is a broad skillset representing the ability to fend for yourself without many of the commodities of modern life. This can cover a wide set of subjects, from knowing what to eat and where to sleep, to guessing the weather for the day, and even staying on the good side of wild beasts.",
+  "attributes": ["Awareness", "Charm"],
+  "specializations": ["Animal Handling", "Hunting & Foraging", "Navigation"],
+  "advantages": ["Domesticated animals", "Camping equipment", "Personal in-depth knowledge of the area"],
+  "disadvantages": ["Hungry or scared animals", "No equipment whatsoever", "Unknown area"],
+  "sample_tests": [
+    "Scavenging for food and water (DN 10)",
+    "Getting hungry feral animals to ignore you (DN 10)",
+    "Using the sky to find the way (DN 5)"
+  ]
+}

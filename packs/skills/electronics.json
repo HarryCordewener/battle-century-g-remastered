@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_electronics",
+  "name": "Electronics",
+  "description": "This Skill distinguishes those who know how to use electronic gadgets of all sorts. You may use Electronics as a replacement for other Skills when a computer could do all the work for you.",
+  "attributes": ["Intellect"],
+  "specializations": ["Communications", "Hardware", "Hacking"],
+  "advantages": ["Access to a supercomputer", "Task is easily automated", "Vast library of reference material for what you are researching"],
+  "disadvantages": ["Computer is old or otherwise subpar", "The task is tedious and the computer easily screws it up if left on its own", "Slow internet connection"],
+  "sample_tests": [
+    "Looking up simple information (DN 5)",
+    "Stopping someone trying to hack into your system (DN Contested Electronics)",
+    "Disabling a security system (DN 15)"
+  ]
+}

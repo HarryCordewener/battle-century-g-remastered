@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_finesse",
+  "name": "Finesse",
+  "description": "Employing flexibility and hand-eye coordination over muscle power and resilience, Finesse is the Skill for pickpocketing and juggling small objects or for walking on a tightrope.",
+  "attributes": ["Fitness"],
+  "specializations": ["Escapism", "Lockpicking", "Pickpocketing"],
+  "advantages": ["An object easy to palm", "Quality breaking and entering tools", "Target is distracted"],
+  "disadvantages": ["Handling large objects", "Restrictive clothing", "Watchful eyes on object of choice"],
+  "sample_tests": [
+    "Diving for cover when a firefight breaks out (DN 5)",
+    "Cautiously stealing a purse (DN Contested Awareness)",
+    "Cracking open a state of the art safe (DN 15)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_craftsmanship",
+  "name": "Craftsmanship",
+  "description": "What do painters, masons and engineers have in common? This Skill. Those with Craftsmanship are able to create and repair physical objects, knowing how to tackle larger projects like those of architecture or engineering.",
+  "attributes": ["Charm", "Intellect", "Fitness"],
+  "specializations": ["Cooking", "Demolitions", "Poetry"],
+  "advantages": ["Extremely rare and high quality ingredients", "You have a bomb defusing manual", "Someone else takes care of your responsibilities for the duration of your crafting"],
+  "disadvantages": ["Distracting noises all day long", "Improvised working area", "Ingredients are poor quality or need suboptimal substitutions"],
+  "sample_tests": [
+    "Building a tree house (DN 10)",
+    "Disarming a bomb (DN 15)",
+    "Writing a manifesto that will rally the masses (DN 20)"
+  ]
+}

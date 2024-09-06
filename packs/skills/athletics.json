@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_athletics",
+  "name": "Athletics",
+  "description": "Encompassing one’s physical fitness and training of the body, Athletics applies to all those situations in which strength and endurance are both required. Characters trained in Athletics can get away from assassins climbing walls, long-distance jumping from one rooftop to the next, or just plain outrunning everyone.",
+  "attributes": ["Fitness", "Intellect"],
+  "specializations": ["Rock-Climbing", "Football", "Swimming"],
+  "advantages": ["Stimulants", "High performance bike", "The sports match take place on your ‘home turf’"],
+  "disadvantages": ["Trying to climb a sheer slope", "Running around debris", "Swimming against the current"],
+  "sample_tests": [
+    "Jumping from one rooftop to another (DN 10)",
+    "A foot chase (DN Contested Athletics)",
+    "Crossing the English Channel (DN 15)"
+  ]
+}

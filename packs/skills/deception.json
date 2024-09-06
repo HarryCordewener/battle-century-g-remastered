@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_deception",
+  "name": "Deception",
+  "description": "The art of bluffing, encompassing fast-talk, convincing lies, and a fair degree of acting skill. Note that putting up an act that doesn’t actually do anything but get other people’s attention is the domain of the Presence skill instead.",
+  "attributes": ["Charm", "Intellect", "Fitness"],
+  "specializations": ["Disguises", "Threats", "Seduction"],
+  "advantages": ["Victim is desperate for what you have to offer", "The person you are impersonating looks like you", "The papers you are forging are the same kind that you regularly write officially"],
+  "disadvantages": ["There are ‘wanted’ signs with your face on them", "Trying to fool a wide audience", "You don’t have experience with the papers you are trying to forge"],
+  "sample_tests": [
+    "Convincing a guard that you just forgot your ID",
+    "Selling fake goods",
+    "Empty threats and intimidatory bluffs (All DN Contested Awareness)"
+  ]
+}

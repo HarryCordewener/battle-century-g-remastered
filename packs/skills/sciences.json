@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_sciences",
+  "name": "Sciences",
+  "description": "The scientist is a character who pursues one or more of the 'hard sciences'. This Skill corresponds to activities like solving a mathematical problem, identifying a rare breed of animal, and reciting the table of elements by memory.",
+  "attributes": ["Intellect"],
+  "specializations": ["Astronomy", "Zoology", "Physics"],
+  "advantages": ["Access to a supercomputer", "Quiet working space", "Lots of reference material"],
+  "disadvantages": ["Subject matter of research is obscure", "Analyzing a sample in poor condition or contaminated", "Dealing with impossible geometry the human mind cannot comprehend"],
+  "sample_tests": [
+    "Identifying a strange animal (DN 5)",
+    "Accurately predicting the weather for the next day (DN 10)",
+    "Figuring out if and when a meteorite is going to make impact (DN 15)"
+  ]
+}

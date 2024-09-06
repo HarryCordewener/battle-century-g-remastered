@@ -1,0 +1,14 @@
+{
+  "_id": "base_skl_humanities",
+  "name": "Humanities",
+  "description": "The social and behavioral sciences—those that study people. Humanities as a Skill is used to research a subject, appraise an antique, and similar tasks that require broad knowledge of such subjects.",
+  "attributes": ["Intellect"],
+  "specializations": ["Anthropology", "Law", "Psychology"],
+  "advantages": ["You know someone who was part of the cult you’re researching", "One of your parents was a lawyer who would handle cases related to these laws", "This exact matter was the subject of your thesis"],
+  "disadvantages": ["Trying to research an unusually obscure topic", "The text wasn’t written by humans", "You remember the classes related to this subject and not paying attention during them"],
+  "sample_tests": [
+    "Checking a legal document for loopholes (DN 5)",
+    "Analyze human remains to learn about the culture they came from (DN 10)",
+    "Translating an ancient alien civilization’s hieroglyphs (DN 15)"
+  ]
+}
